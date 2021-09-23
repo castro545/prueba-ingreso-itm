@@ -1,5 +1,11 @@
 # prueba-ingreso-itm
-Prueba de ingreso -vacante desarrollador Erp Junior
+
+**Prueba de ingreso -vacante desarrollador Erp Junior**
+
 /----/
+
 Recomendaciones 
-* iniciar el comando 'npm install'
+
+* Iniciar el comando 'npm install', para cargar los 'node-modules' y poder probar los metodos,rutas y controladores
+
+*Brayam Alexis Castro C*
